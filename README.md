@@ -40,3 +40,13 @@ I have professional experience in AI quality assurance, AI training, software te
 - **GitHub:** [Alizenoch](https://github.com/Alizenoch)
 - **LinkedIn:** [Alison Hopa](https://www.linkedin.com/in/alison-hopa-45795a1a/)
 - **Email:** alihopa055@gmail.com
+
+  
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alizenoch&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alizenoch&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alizenoch)
+
